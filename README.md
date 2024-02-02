@@ -1,4 +1,4 @@
-#Celestial Crafter Tech Company
+# Celestial Crafter Tech Company
 
 Celestial Crafters, a technology startup, excels in crafting cutting-edge solutions while actively promoting gender diversity. Specializing in **web development, UI/UX design, data analysis, cybersecurity, banners, logos, business cards, and graphic design,** the company has onboarded over 40 highly qualified women in the tech industry, fostering a notable presence globally.
 
